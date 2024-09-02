@@ -1,0 +1,2 @@
+C:/Users/owner/Desktop/Al_backend_cplusplus/build/CMakeFiles/edit_cache.dir
+C:/Users/owner/Desktop/Al_backend_cplusplus/build/CMakeFiles/rebuild_cache.dir
